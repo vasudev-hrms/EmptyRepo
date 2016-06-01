@@ -5,3 +5,4 @@ execute=authenticated
   **/ 
  /*#*SCRIPTR_PLUGIN*#*{"metadata":{"name":"CodeMirrorArbitraryFile","plugindata":{"fileData":"//file"},"scriptrdata":[]}}*#*#*/
 var content= '//file';  response.write(content);response.close();			
+//myscript

@@ -1,0 +1,4 @@
+var location = request.parameters.location;var location = request.parameters.location;
+var country = request.parameters.country;var country = request.parameters.country;
+var state = request.parameters.state;var state = request.parameters.state;
+return location+country+state;return location+country+state;

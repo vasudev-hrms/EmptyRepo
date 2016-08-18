@@ -1,1 +1,0 @@
-{"acl":{"read":"group:script-execute;group:script-read;scriptr_demosbipio;scriptr_stagingbipio","write":"nobody","execute":"nobody"},"contentType":"text\/plain","userConfig":"\/*#*SCRIPTR_PLUGIN*#*{\"metadata\":{\"name\":\"CodeMirrorArbitraryFile\",\"plugindata\":{}}}*#*#*\/"}
